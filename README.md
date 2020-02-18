@@ -9,6 +9,7 @@ $ apt install python
 $ apt install git
 
 $ git clone https://github.com/AkiraOrizaya/Sb2020
+
 $ cd Sb2020
 
 $ python -m pip install -r requirements.txt
